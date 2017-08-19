@@ -2,11 +2,11 @@
 全平台App热修复服务方案。
 
 ## 组件
-* hotfix-api 
-* hotfix-manager
-* hotfix-iOS
-* hotfix-Android
-* hotfix-doc
+* [hotfix-api](https://github.com/hotfix-project/hotfix-api) 
+* [hotfix-manager](https://github.com/hotfix-project/hotfix-manager)
+* [hotfix-iOS](https://github.com/hotfix-project/hotfix-iOS)
+* [hotfix-Android](https://github.com/hotfix-project/hotfix-Android)
+* [hotfix-doc](https://github.com/hotfix-project/hotfix-doc)
 
 ## 应用场景
 HotFix提供的热修复能力，让您对应用程序的控制更加自由。
