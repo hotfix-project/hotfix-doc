@@ -12,7 +12,7 @@
 * [hotfix-gateway](https://github.com/hotfix-project/hotfix-gateway)
 * [hotfix-doc](https://github.com/hotfix-project/hotfix-doc)
 
-组件示意图
+### 组件示意图
 ![image](hotfix-components.png)
 
 
