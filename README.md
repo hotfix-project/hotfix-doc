@@ -9,7 +9,12 @@
 * [hotfix-manager](https://github.com/hotfix-project/hotfix-manager)
 * [hotfix-Android](https://github.com/hotfix-project/hotfix-Android)
 * [hotfix-iOS](https://github.com/hotfix-project/hotfix-iOS)
+* [hotfix-gateway](https://github.com/hotfix-project/hotfix-gateway)
 * [hotfix-doc](https://github.com/hotfix-project/hotfix-doc)
+
+组件示意图
+![image](hotfix-components.png)
+
 
 ## 应用场景
 HotFix提供的热修复能力，让您对应用程序的控制更加自由。
