@@ -25,4 +25,4 @@ HotFix提供的热修复能力，让您对应用程序的控制更加自由。
 
 
 ## 感谢
-* (jiajiafan)[https://github.com/jiajiafan]
+* [jiajiafan](https://github.com/jiajiafan)
